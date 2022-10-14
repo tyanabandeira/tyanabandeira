@@ -22,12 +22,12 @@ Visit my website https://www.tyanabandeira.com/
 - LinkedIn: www.linkedin.com/in/tyanabandeira
 
 ## Projects
-# Responsive Web Projects
+**Responsive Web Projects**
 -
 -
 -
 
-# Web Applications
+**Web Applications**
 -
 -
 -
