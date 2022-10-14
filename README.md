@@ -8,4 +8,4 @@ Visit my website https://www.tyanabandeira.com/
 Technologies 
 
 ![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-0e76a8?style=for-the-badge&logo=HTML5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=HTML5&logoColor=white)
