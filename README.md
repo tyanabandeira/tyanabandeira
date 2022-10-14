@@ -32,12 +32,8 @@
 - LinkedIn: www.linkedin.com/in/tyanabandeira
 
 ## Projects
-### Responsive Web Projects
--
--
--
-
-### Web Applications
+### Web Projects
+- [JWLI Wireframe](https://jwliwireframe.netlify.app/)
 - [Simple To Do List](https://tosolistsimple.netlify.app/)
 - [Calculator](https://calctime.netlify.app/)
 - [Horoscope](https://horoscopeteller.netlify.app/)
