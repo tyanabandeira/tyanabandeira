@@ -5,11 +5,8 @@
 
 ## Who Am I?
 👋 Hi, I'm Tyana
-
 😊 Pronouns: she/her/hers
-
 📍 I am from Boston
-
 💻 I am currently working on JavaScript
 
 ## Technologies 
