@@ -1,4 +1,5 @@
-![banner](https://user-images.githubusercontent.com/113194307/195741840-a2df5a43-bb7b-413e-9c9c-a6be2393f7e0.png)
+![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/113194307/195742666-4bf2e4cd-813e-40f9-a014-6e9261c32a6b.png)
+
 
 
 ## Who Am I?
