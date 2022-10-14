@@ -1,4 +1,5 @@
-![White Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/113194307/195203777-9f59b01f-5317-41c9-81ab-5235ae76a046.png)
+![banner](https://user-images.githubusercontent.com/113194307/195741840-a2df5a43-bb7b-413e-9c9c-a6be2393f7e0.png)
+
 
 ## Who Am I?
 👋 Hi, I'm Tyana
