@@ -19,7 +19,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tyanabandeira)](https://git.io/streak-stats)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyanabandeira&show_icons=true&locale=en&layout=compact" alt="tyanabandeira" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyanabandeira&show_icons=true&locale=en" alt="tyanabandeira" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tyanabandeira&show_icons=true&locale=en" alt="tyanabandeira" /></p>
 
 ## Get In Touch
 - Twitter: www.twitter.com/tyana_bandeira
