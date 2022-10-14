@@ -39,5 +39,6 @@
 - [Horoscope](https://horoscopeteller.netlify.app/)
 
 
+![image](https://user-images.githubusercontent.com/113194307/195874454-fc32e297-61e9-4d7b-bd7c-ad3ba3519ec0.png)
 
 
