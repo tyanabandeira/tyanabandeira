@@ -39,8 +39,8 @@
 
 ### Web Applications
 - [Simple To Do List](https://tosolistsimple.netlify.app/)
--  
-- 
+- [Calculator](https://calctime.netlify.app/)
+- [Horoscope] (https://horoscopeteller.netlify.app/)
 
 
 
