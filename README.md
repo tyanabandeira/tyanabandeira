@@ -16,7 +16,19 @@ Visit my website https://www.tyanabandeira.com/
 ![REACT](https://img.shields.io/badge/REACT-61DBFB?style=for-the-badge&logo=REACT&logoColor=white)
 
 ## Get In Touch
-- Twitter: twitter.com/tyana_bandeira
+- Twitter: www.twitter.com/tyana_bandeira
 - Portfolio: www.tyanabandeira.com/
 - Email me: tyanabandeira1@gmail.com
 - LinkedIn: www.linkedin.com/in/tyanabandeira
+
+## Projects
+# Responsive Web Projects
+-
+-
+-
+
+# Web Applications
+-
+-
+-
+
