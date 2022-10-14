@@ -39,7 +39,7 @@
 
 ### Web Applications
 - ### link [Todo List] (https://tosolistsimple.netlify.app/)
-- [Todo List]([https://www.google.com](https://tosolistsimple.netlify.app/ "todolist")
+- [Todo List]([https://www.google.com](https://tosolistsimple.netlify.app/)
 - 
 
 
