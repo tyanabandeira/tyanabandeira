@@ -5,9 +5,12 @@
 
 ## Who Am I?
 👋 Hi, I'm Tyana
-😊 Pronouns: she/her/hers
+
+😊 Pronouns: she/her/hers 
+
 📍 I am from Boston
-💻 I am currently working on JavaScript
+
+💻 I am currently working on JavaScript       
 
 ## Technologies 
 ![HTML5](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=HTML5&logoColor=white)
