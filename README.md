@@ -34,3 +34,4 @@
 -
 -
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tyanabandeira)](https://git.io/streak-stats)
