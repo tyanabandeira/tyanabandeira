@@ -16,6 +16,10 @@
 ![NODE.JS](https://img.shields.io/badge/NODE.JS-68A063?style=for-the-badge&logo=NODE.JS&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/MONGODB-E8E7D5?style=for-the-badge&logo=MONGODB&logoColor=white)
 ![REACT](https://img.shields.io/badge/REACT-61DBFB?style=for-the-badge&logo=REACT&logoColor=white)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tyanabandeira)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyanabandeira&show_icons=true&locale=en&layout=compact" alt="tyanabandeira" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyanabandeira&show_icons=true&locale=en" alt="tyanabandeira" /></p>
 
 ## Get In Touch
 - Twitter: www.twitter.com/tyana_bandeira
@@ -34,10 +38,7 @@
 -
 -
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tyanabandeira)](https://git.io/streak-stats)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyanabandeira&show_icons=true&locale=en&layout=compact" alt="tyanabandeira" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tyanabandeira&show_icons=true&locale=en" alt="tyanabandeira" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tyanabandeira&" alt="tyanabandeira" /></p>
+
 
