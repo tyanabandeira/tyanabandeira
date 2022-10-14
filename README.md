@@ -1,4 +1,5 @@
-![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/113194307/195742666-4bf2e4cd-813e-40f9-a014-6e9261c32a6b.png)
+![banner](https://user-images.githubusercontent.com/113194307/195743031-8f9ad576-bacd-4337-91d4-48cc6c2978cd.png)
+
 
 
 
