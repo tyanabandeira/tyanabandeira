@@ -5,7 +5,7 @@ Visit my website https://www.tyanabandeira.com/
 📬 How to reach me: tyanabandeira1@gmail.com
 
 
-Technologies 
+## Technologies 
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=HTML5&logoColor=white)
