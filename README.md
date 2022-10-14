@@ -7,4 +7,5 @@ Visit my website https://www.tyanabandeira.com/
 
 Technologies 
 
-![<HTML5>](https://img.shields.io/badge/<Badge Text>-<orange>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
+![HTML5](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=HTML5&logoColor=white)]
