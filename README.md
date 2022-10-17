@@ -28,7 +28,7 @@
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tyanabandeira&show_icons=true&locale=en" alt="tyanabandeira" /></p>
 
-## Get In Touch
+## Connect with me!
 - Twitter: www.twitter.com/tyana_bandeira
 - Portfolio: www.tyanabandeira.com/
 - Email me: tyanabandeira1@gmail.com
