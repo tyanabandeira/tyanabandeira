@@ -33,10 +33,6 @@
 <a href="https://twitter.com/tyana_bandeira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tyana_bandeira" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tyanabandeira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tyanabandeira" height="30" width="40" /></a>
 </p>
-- Twitter: www.twitter.com/tyana_bandeira
-- Portfolio: www.tyanabandeira.com/
-- Email me: tyanabandeira1@gmail.com
-- LinkedIn: www.linkedin.com/in/tyanabandeira
 
 ## Projects
 ### Web Projects
