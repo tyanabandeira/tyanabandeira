@@ -7,8 +7,6 @@
 
 
 ## Who Am I?
-👋 Hi, I'm Tyana
-
 😊 Pronouns: she/her/hers 
 
 📍 I am from Boston
