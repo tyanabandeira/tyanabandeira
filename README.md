@@ -13,9 +13,7 @@
 
 📍 I am from Boston<br>
 💻 I am currently working on JavaScript 
-
 📧 How to reach me: Email me: tyanabandeira1@gmail.com
-
 🌐 Take a look at my [website](https://www.tyanabandeira.com/) for more information! 
 ## Technologies 
 ![HTML5](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=HTML5&logoColor=white)
