@@ -1,7 +1,8 @@
 ## Hi, I'm Tyana 👋🏽👩🏽‍💻
 
 
-![banner](https://user-images.githubusercontent.com/113194307/195743031-8f9ad576-bacd-4337-91d4-48cc6c2978cd.png)
+![Blue Geometric Technology LinkedIn Banner](https://user-images.githubusercontent.com/113194307/196226325-c2dc503f-48ac-4944-b46e-e99c9c80157f.png)
+
 
 
 
