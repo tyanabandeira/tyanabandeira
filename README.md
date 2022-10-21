@@ -1,4 +1,4 @@
-## align="center" Hi, I'm Tyana 👋🏽👩🏽‍💻
+## Hi, I'm Tyana 👋🏽👩🏽‍💻
 
 
 
