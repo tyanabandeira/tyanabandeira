@@ -10,8 +10,6 @@
 
 ## Who Am I?
 
-![lofi_generator](https://user-images.githubusercontent.com/113194307/204150162-dbf1ad93-8ae8-4357-aeba-181760e08a2d.png)
-
 😊 Pronouns: she/her/hers 
 
 📍 I am from Boston<br>
