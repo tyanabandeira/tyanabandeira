@@ -1,4 +1,5 @@
-## Hi, I'm Tyana 👋🏽👩🏽‍💻
+## Hi, I'm Tyana 👋🏽👩🏽‍💻![lofi_generator](https://user-images.githubusercontent.com/113194307/205469452-5cd0cfc6-584e-473d-a495-ceeba316148d.png)
+
 
 
 
