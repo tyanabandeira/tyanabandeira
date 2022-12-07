@@ -12,7 +12,6 @@
 ## Who Am I?
 
 😊 Pronouns: she/her/hers 
-
 📍 I am from Boston<br>
 💻 I am currently working on JavaScript<br>
 📧 How to reach me: Email me: tyanabandeira1@gmail.com<br>
