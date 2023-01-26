@@ -2,8 +2,9 @@
 
 
 
+![3](https://user-images.githubusercontent.com/113194307/214942528-36e4ba42-b9df-46ec-9f5a-b15dae59d549.png)
 
-![Blue Geometric Technology LinkedIn Banner](https://user-images.githubusercontent.com/113194307/196227375-0fb3aff2-b063-4aa0-9c41-3272a71b37f3.png)
+
 
 
 
