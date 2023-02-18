@@ -1,4 +1,4 @@
-## Hi, my name is Tyana Bandeira!
+## Hi,👋 my name is Tyana Bandeira!
 
 
 ![3](https://user-images.githubusercontent.com/113194307/214942528-36e4ba42-b9df-46ec-9f5a-b15dae59d549.png)
