@@ -29,7 +29,7 @@
 <a href="https://twitter.com/tyana_bandeira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tyana_bandeira" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/tyanabandeira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tyanabandeira" height="30" width="40" /></a>
 </p>
-![Visitor Count](https://profile-counter.glitch.me/{tyanabandeira}/count.svg)
+
 ## Projects
 ### Web Projects
 - [JWLI Wireframe](https://jwliwireframe.netlify.app/)
