@@ -32,7 +32,10 @@ If you think of any opportunities or just want to chat about anything tech-relat
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tyanabandeira&show_icons=true&locale=en&layout=compact" alt="tyanabandeira" /></p>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tyanabandeira&show_icons=true&locale=en" alt="tyanabandeira" /></p>
-
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
+</div>
 ## Connect with me!
 <p align="left">
 <a href="https://twitter.com/tyana_bandeira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tyana_bandeira" height="30" width="40" /></a> 
