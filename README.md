@@ -29,6 +29,7 @@
 ![NODE.JS](https://img.shields.io/badge/NODE.JS-68A063?style=for-the-badge&logo=NODE.JS&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/MONGODB-E8E7D5?style=for-the-badge&logo=MONGODB&logoColor=white)
 ![REACT](https://img.shields.io/badge/REACT-61DBFB?style=for-the-badge&logo=REACT&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tyanabandeira)](https://git.io/streak-stats)
