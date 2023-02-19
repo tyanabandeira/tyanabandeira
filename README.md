@@ -5,18 +5,20 @@
 
 
 ## Who Am I?
+
+🌍 I am based in Boston<br>
+😊 Pronouns: she/her/hers<br>
 🧑‍💻 Currently seeking: Software engineer opportunities, internships, apprenticeships, and coffee chats<br>
 👀 Open to: Collaborating on exciting projects and meeting new people in the tech community<br>
-😊 Pronouns: she/her/hers<br>
-🌍 I am based in Boston<br>
 🧠 I am currently learning data structures and algorithms<br>
 🌟 Notable project: Developed a full stack app called Serenity which allows users to track their mood and data in relation to depression. The app includes a built-in chat function that allows users to support each other. <br>
 💡 Work philosophy: "Programming isn't about what you know; it's about what you can figure out.”<br>
-🎨 Hobbies and interests: reading, traveling, playing video games, web development, programming <br>
 💻 I am currently working on React<br>
 🛠️ Preferred development tools: Visual Studio Code, Git, Github<br>
 📧 How to reach me: Email me: tyanabandeira1@gmail.com<br>
 🌐 Take a look at my [Portfolio](https://www.tyanabandeira.com/) for more information!<br>
+🎨 Hobbies and interests: reading, traveling, playing video games, web development, programming <br>
+💡 Work philosophy: "Programming isn't about what you know; it's about what you can figure out.”<br>
 
 If you think of any opportunities or just want to chat about anything tech-related, feel free to reach out! I'm always looking to expand my network and learn from others.
 
@@ -30,11 +32,10 @@ If you think of any opportunities or just want to chat about anything tech-relat
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tyanabandeira)](https://git.io/streak-stats)
-<div style="display: flex; flex-direction: row;">
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tyanabandeira&show_icons=true&locale=en&layout=compact" alt="tyanabandeira" /></p>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tyanabandeira&show_icons=true&locale=en" alt="tyanabandeira" /></p>
-</div>
+
 
 ## Connect with me!
 <p align="left">
