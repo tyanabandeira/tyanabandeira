@@ -5,15 +5,15 @@
 
 
 ## Who Am I?
-[<iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N"  width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
 
 😊 Pronouns: she/her/hers<br>
-🌍 I'm based in Boston<br>
+🌍 I am based in Boston<br>
+🧠 I am currently learning data structures and algorithms
 💡 Work philosophy: "Programming isn't about what you know; it's about what you can figure out.”<br>
-🎨 Hobbies and interests: Reading, traveling, playing video games, web development, programming <br>
-💻 I am currently working on JavaScript<br>
+🎨 Hobbies and interests: reading, traveling, playing video games, web development, programming <br>
+💻 I am currently working on React<br>
 📧 How to reach me: Email me: tyanabandeira1@gmail.com<br>
-🌐 Take a look at my [website](https://www.tyanabandeira.com/) for more information!<br>
+🌐 Take a look at my [Portfolio](https://www.tyanabandeira.com/) for more information!<br>
 ## Technologies 
 ![HTML5](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-E31B5F?style=for-the-badge&logo=CSS3&logoColor=white)
