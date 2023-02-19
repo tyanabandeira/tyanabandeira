@@ -7,7 +7,9 @@
 ## Who Am I?
 
 😊 Pronouns: she/her/hers<br>
-📍 I am from Boston<br>
+🌍 I'm based in Boston<br>
+💡 Work philosophy: "Programming isn't about what you know; it's about what you can figure out.”<br>
+🎨 Hobbies and interests: Reading, traveling, playing video games, web development, programming <br>
 💻 I am currently working on JavaScript<br>
 📧 How to reach me: Email me: tyanabandeira1@gmail.com<br>
 🌐 Take a look at my [website](https://www.tyanabandeira.com/) for more information!<br>
