@@ -20,7 +20,7 @@
 🎨 Hobbies and interests: reading, traveling, playing video games, web development, programming <br>
 💡 Work philosophy: "Programming isn't about what you know; it's about what you can figure out.”<br>
 
-#### If you think of any opportunities or just want to chat about anything tech-related, feel free to reach out! I'm always looking to expand my network and learn from others.
+##### If you think of any opportunities or just want to chat about anything tech-related, feel free to reach out! I'm always looking to expand my network and learn from others.
 
 ## Technologies 
 ![HTML5](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=HTML5&logoColor=white)
