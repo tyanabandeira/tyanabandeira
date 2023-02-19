@@ -28,8 +28,9 @@ If you think of any opportunities or just want to chat about anything tech-relat
 ![MONGODB](https://img.shields.io/badge/MONGODB-E8E7D5?style=for-the-badge&logo=MONGODB&logoColor=white)
 ![REACT](https://img.shields.io/badge/REACT-61DBFB?style=for-the-badge&logo=REACT&logoColor=white)
 
-<div style="display: flex; flex-direction: row;">
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tyanabandeira)](https://git.io/streak-stats)
+<div style="display: flex; flex-direction: row;">
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tyanabandeira&show_icons=true&locale=en&layout=compact" alt="tyanabandeira" /></p>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tyanabandeira&show_icons=true&locale=en" alt="tyanabandeira" /></p>
