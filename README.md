@@ -5,10 +5,7 @@
 
 
 
-
-https://user-images.githubusercontent.com/113194307/219905253-33ed9b16-690f-4043-be31-c765ea966ca3.mp4
-
-
+![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/113194307/219905290-f5ee1ab8-d1bc-4898-9775-c6fdfb7f3420.gif)
 
 
 
