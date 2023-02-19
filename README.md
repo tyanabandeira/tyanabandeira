@@ -5,15 +5,21 @@
 
 
 ## Who Am I?
-
+🧑‍💻 Currently seeking: Software engineer opportunities, internships, apprenticeships, and coffee chats<br>
+👀 Open to: Collaborating on exciting projects and meeting new people in the tech community<br>
 😊 Pronouns: she/her/hers<br>
 🌍 I am based in Boston<br>
-🧠 I am currently learning data structures and algorithms
+🧠 I am currently learning data structures and algorithms<br>
+🌟 Notable project: Developed a full stack app called Serenity which allows users to track their mood and data in relation to depression. The app includes a built-in chat function that allows users to support each other. <br>
 💡 Work philosophy: "Programming isn't about what you know; it's about what you can figure out.”<br>
 🎨 Hobbies and interests: reading, traveling, playing video games, web development, programming <br>
 💻 I am currently working on React<br>
+🛠️ Preferred development tools: Visual Studio Code, Git, Github<br>
 📧 How to reach me: Email me: tyanabandeira1@gmail.com<br>
 🌐 Take a look at my [Portfolio](https://www.tyanabandeira.com/) for more information!<br>
+
+If you think of any opportunities or just want to chat about anything tech-related, feel free to reach out! I'm always looking to expand my network and learn from others.
+
 ## Technologies 
 ![HTML5](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-E31B5F?style=for-the-badge&logo=CSS3&logoColor=white)
