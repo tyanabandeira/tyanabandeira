@@ -5,7 +5,7 @@
 
 
 ## Who Am I?
-
+<iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" align="right" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
 😊 Pronouns: she/her/hers<br>
 🌍 I'm based in Boston<br>
 💡 Work philosophy: "Programming isn't about what you know; it's about what you can figure out.”<br>
